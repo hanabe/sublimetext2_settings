@@ -1,0 +1,21 @@
+{
+	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
+	"font_face": "Source Code Pro",
+	"font_size": 13,
+	"highlight_line": true,
+	// ガーターとテキストエリアの間の幅
+	"margin": -5,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"line_padding_top": 0,
+	"tab_size": 4,
+	"translate_tabs_to_spaces": true,
+	// タイトルバーにファイルのフルパスを表示
+	"show_full_path": true,
+	"word_wrap": true,
+	"wrap_width": 0,
+	"indent_subsequent_lines": false,
+	"trim_trailing_white_space_on_save": true
+}

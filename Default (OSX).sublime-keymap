@@ -12,7 +12,7 @@
     // Edit
     { "keys": ["ctrl+/"], "command": "undo" },
     { "keys": ["ctrl+w"], "command": "cut" },
-    { "keys": ["alt+w"],  "command": "copy" },
+    { "keys": ["ctrl+u"],  "command": "copy" },
     { "keys": ["ctrl+y"], "command": "paste" },
 
     { "keys": ["ctrl+space"], "command": "move", "args": {"by": "subwords", "forward": true, "extend": true} },
